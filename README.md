@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![zjuwangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjuwangg&include_all_commits=true&count_private=true&theme=cobalt)
+- 🔭 I’m currently working on @bytedance
+- 🌱 I’m currently learning AI/Writing/Stock Investment
+- 👯 I’m looking to collaborate on all interesting projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything you curious about
+- 📫 How to reach me: email
+  
+![zjuwangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjuwangg&include_all_commits=true&count_private=true&theme=shadow_green)
